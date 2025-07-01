@@ -52,9 +52,9 @@ Prédire un diagnostic binaire à partir de variables cliniques, dans un environ
 # To Be or Not to Be? 🧠💉
 > A binary classification project applied to synthetic medical data.
 
-## 🗂️ Context
+## 🗂️ Goal
 
-The goal is to predict a binary diagnosis from clinical variables, in a realistic and imbalanced environment.
+Predict a binary diagnosis from clinical variables, in a realistic and imbalanced environment.
 
 ## 👥 Team Members
 
