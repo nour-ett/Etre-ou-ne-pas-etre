@@ -36,7 +36,6 @@ Prédire un diagnostic binaire à partir de variables cliniques, dans un environ
 - Forêts aléatoires
 - SVM (Support Vector Machines)
 - Arbres de décision
-- k-Plus proches voisins
 - Naive Bayes
 
 ## 📊 Métriques d'évaluation
@@ -87,7 +86,6 @@ Predict a binary diagnosis from clinical variables, in a realistic and imbalance
 - Random Forests
 - Support Vector Machines (SVM)
 - Decision Trees
-- k-Nearest Neighbors
 - Naive Bayes
 
 ## 📊 Evaluation Metrics
