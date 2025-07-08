@@ -19,7 +19,7 @@ Prédire un diagnostic binaire à partir de variables cliniques, dans un environ
 ├── public_data/                 # Données fournies pour l'entraînement et le test
 ├── Submissions/                 # Répertoire pour les fichiers de prédictions
 ├── img/                         # Logos et illustrations
-└── README.md                    # Ce fichier
+
 ```
 
 ## ⚙️ Technologies utilisées
