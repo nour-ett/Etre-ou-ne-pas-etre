@@ -8,7 +8,7 @@ Prédire un diagnostic binaire à partir de variables cliniques, dans un environ
 ## 👥 Membres du groupe
 
 - BENOSMANE Lydia
-- FABREGA Isabel
+- FABREGA Isabel 
 - ETTAYEB Nour
 
 ## 📁 Structure du projet
